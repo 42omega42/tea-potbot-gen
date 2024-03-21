@@ -1,0 +1,24 @@
+{
+  "name": "tea-potbot-gen",
+  "version": "1.0.0",
+  "description": "Tea Potbot Gen simplifies contract creation and deployment for tea-related projects, offering tools for generating and managing tea-specific smart contracts.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/42omega42/tea-potbot-gen"
+  },
+  "author": "42omega42",
+  "license": "MIT",
+  "dependencies": {
+    "tea-arboretum-indexer": "1.0.0",
+    "tea-potbot-gen": "1.0.0",
+    "pg": "1.0.0",
+    "node-sass": "1.0.0",
+    "fs-extra": "1.0.0",
+    "mongoose": "1.0.0",
+    "validator": "1.0.0"
+  }
+}
